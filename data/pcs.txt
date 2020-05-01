@@ -1,0 +1,383 @@
+#
+#  PCS.TXT: Player-Character Data
+#
+#  In addition to PC data, this also contains hair, beards, death shrouds,
+#  and backpacks, but not the contents of each backpack.
+#
+
+Character
+{
+	Account	admin
+	CharIdx	0
+	Name	wegwqe
+	Serial	0x2
+	ObjType	0x190
+	Graphic	0x190
+	Color	0x3fb
+	X	3372
+	Y	1933
+	Z	0
+	Facing	3
+	Revision	1
+	Realm	britannia
+	CProp	%CooldownList% d0:
+	CProp	%TimerList% d0:
+	CProp	ConnectTime i1588028357
+	CProp	LastDamage t5:S6:amounti17S4:nameS6:NildudS6:seriali17S4:timei1588029359S4:typei-1
+	CProp	buyhab d20:i1i0i2i0i3i0i4i0i5i0i6i0i7i0i8i0i9i0i10i0i11i0i12i0i13i0i14i0i15i0i16i0i17i0i18i0i19i0i20i0
+	CProp	chardata t11:S6:classeS9:GuerreiroS7:Creditsi35S3:dexi75S3:inti40S3:kitS6:NenhumS4:povoS9:AquilranoS9:Primariasi0S4:racaS4:ElfoS6:Skillsd7:S9:Awarenessi1S8:Medicinei2S13:MeleeCombat1Hi3S5:Parryi3S12:RangedCombati2S8:Survivali2S7:Tacticsi2S3:stri85S14:vantagemracialS16:Vontade de Ferro
+	CProp	classe sGuerreiro
+	CProp	createdate i1588024618
+	CProp	criandochar i1
+	CProp	kit sNenhum
+	CProp	lastHit t2:S6:amountuS8:attackeri17
+	CProp	lastNpcDmg s:brainai:BrownOrc
+	CProp	prop i0
+	CProp	raca sElfo
+	CmdLevel	test
+	TrueColor	0x3fb
+	TrueObjtype	0x190
+	Gender	0
+	Race	0
+	Strength	85
+	Intelligence	40
+	Dexterity	75
+	Parry	40
+	MeleeCombat1H	40
+	RangedCombat	20
+	Tactics	20
+	Medicine	20
+	Survival	20
+	Hits	209
+	Mana	40
+	Stamina	38
+	DP	40
+	Hunger	300
+	Skillcap	20
+	FollowersMax	1
+	CreatedAt	522715
+	TitleRace	"Elfo"
+}
+
+Item
+{
+	Serial	0x4000017e
+	ObjType	0xe75
+	Graphic	0xe75
+	X	0
+	Y	0
+	Z	0
+	Facing	21
+	Revision	0
+	Realm	britannia
+	Layer	21
+	Container	0x2
+	DecayAt	526107
+}
+
+Character
+{
+	Account	admin
+	CharIdx	1
+	Name	Silver
+	Serial	0x3
+	ObjType	0x190
+	Graphic	0x190
+	Color	0x3ed
+	X	4230
+	Y	31
+	Z	1
+	Revision	2
+	Realm	britannia
+	CProp	ConnectTime i1588025644
+	CProp	buyhab d20:i1i0i2i0i3i0i4i0i5i0i6i0i7i0i8i0i9i0i10i0i11i0i12i0i13i0i14i0i15i0i16i0i17i0i18i0i19i0i20i0
+	CProp	chardata t11:S6:classeS9:GuerreiroS7:Creditsi100S3:dexi60S3:inti40S3:kitS6:NenhumS4:povoS9:AquilranoS9:Primariasi1S4:racaS4:ElfoS6:Skillsd6:S8:Medicinei2S13:MeleeCombat1Hi1S12:MetalWorkingi2S5:Parryi2S8:Survivali1S7:Tacticsi3S3:stri100S14:vantagemracialS16:Vontade de Ferro
+	CProp	classe sGuerreiro
+	CProp	createdate i1588025644
+	CProp	criandochar i1
+	CProp	dpmod i10
+	CProp	kit sNenhum
+	CProp	raca sElfo
+	CmdLevel	test
+	TrueColor	0x3ed
+	TrueObjtype	0x190
+	Gender	0
+	Race	0
+	Strength	100
+	Intelligence	40
+	Dexterity	60
+	Parry	20
+	Tactics	40
+	Medicine	20
+	MetalWorking	20
+	Hits	225
+	Mana	4
+	Stamina	9
+	DP	40
+	Hunger	300
+	Skillcap	20
+	FollowersMax	1
+	CreatedAt	523019
+	TitleRace	"Elfo"
+}
+
+Item
+{
+	Serial	0x40000301
+	ObjType	0xe75
+	Graphic	0xe75
+	X	0
+	Y	0
+	Z	0
+	Facing	21
+	Revision	0
+	Realm	britannia
+	Layer	21
+	Container	0x3
+	DecayAt	523964
+}
+
+Character
+{
+	Account	admin
+	CharIdx	2
+	Name	Sogueto
+	Serial	0x11
+	ObjType	0x190
+	Graphic	0x190
+	Color	0x3eb
+	X	3367
+	Y	1954
+	Z	0
+	Facing	4
+	Revision	1
+	Realm	britannia
+	CProp	%CooldownList% d0:
+	CProp	%TimerList% d0:
+	CProp	ConnectTime i1588118066
+	CProp	LastDamage t5:S6:amounti20S4:nameS8:BazerionS6:seriali21S4:timei1588038599S4:typei-1
+	CProp	TamedPets a0:
+	CProp	buyhab d20:i1i1i2i1i3i1i4i1i5i1i6i1i7i1i8i1i9i1i10i1i11i1i12i1i13i1i14i1i15i1i16i1i17i1i18i1i19i1i20i1
+	CProp	chardata t11:S6:classeS6:LadinoS7:Creditsi100S3:dexi80S3:inti40S3:kitS17:Nomade do DesertoS4:povoS9:ZharkianoS9:Primariasi0S4:racaS6:HumanoS6:Skillsd6:S9:Awarenessi2S17:MechanicalApitudei2S8:Medicinei1S13:MeleeCombat1Hi3S5:Sneaki3S7:Tacticsi2S3:stri80S14:vantagemracialS13:Versatilidade
+	CProp	classe sLadino
+	CProp	createdate i1588031335
+	CProp	criandochar i1
+	CProp	critdelay i613579
+	CProp	delayskill i533073
+	CProp	kit sNomade do Deserto
+	CProp	lastHit t2:S6:amountuS8:attackeri21
+	CProp	lastNpcDmg s:brainai:Sucubus
+	CProp	raca sHumano
+	CmdLevel	test
+	TrueColor	0x3eb
+	TrueObjtype	0x190
+	Gender	0
+	Race	0
+	Strength	100
+	Intelligence	100
+	Dexterity	100
+	Wrestling	100
+	OSI	100
+	Alchemy	100
+	Magery	100
+	MagicLore	100
+	Parry	100
+	MeleeCombat1H	100
+	MeleeCombat2H	100
+	RangedCombat	100
+	Tactics	100
+	Sneak	100
+	Pickpocketing	100
+	Awareness	100
+	MechanicalApitude	100
+	Medicine	100
+	Survival	100
+	MetalWorking	100
+	WoodWorking	100
+	WomensWork	100
+	Gathering	100
+	HandleAnimal	100
+	Hits	200
+	Mana	100
+	Stamina	79
+	DP	40
+	Hunger	300
+	Skillcap	20
+	FollowersMax	3
+	CreatedAt	526575
+	TitleRace	"Humano"
+}
+
+Item
+{
+	Serial	0x4000286c
+	ObjType	0x203c
+	Graphic	0x203c
+	Color	0x455
+	X	3042
+	Y	2813
+	Z	29
+	Facing	11
+	Revision	1
+	Realm	britannia
+	Layer	11
+	Container	0x11
+	DecayAt	527442
+}
+
+Item
+{
+	Serial	0x40002866
+	ObjType	0xe75
+	Graphic	0xe75
+	X	0
+	Y	0
+	Z	0
+	Facing	21
+	Revision	0
+	Realm	britannia
+	Layer	21
+	Container	0x11
+	DecayAt	532481
+}
+
+Character
+{
+	Account	zan
+	CharIdx	0
+	Name	zan
+	Serial	0x16
+	ObjType	0x191
+	Graphic	0x191
+	Color	0x3ea
+	X	3014
+	Y	2626
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	CProp	ConnectTime i1588057547
+	CProp	buyhab d20:i1i0i2i0i3i0i4i0i5i0i6i0i7i0i8i0i9i0i10i0i11i0i12i0i13i0i14i0i15i0i16i0i17i0i18i0i19i0i20i0
+	CProp	createdate i1588057547
+	CmdLevel	admin
+	TrueColor	0x3ea
+	TrueObjtype	0x191
+	Gender	1
+	Race	0
+	Strength	45
+	Intelligence	10
+	Dexterity	35
+	OSI	30
+	Hits	119
+	Mana	10
+	Stamina	12
+	DP	40
+	Hunger	300
+	Skillcap	20
+	FollowersMax	1
+	CreatedAt	552786
+}
+
+Item
+{
+	Serial	0x40010ada
+	ObjType	0x203c
+	Graphic	0x203c
+	Color	0x44e
+	X	0
+	Y	0
+	Z	0
+	Facing	11
+	Revision	0
+	Realm	britannia
+	Layer	11
+	Container	0x16
+	DecayAt	553386
+}
+
+Item
+{
+	Serial	0x40010adb
+	ObjType	0xe75
+	Graphic	0xe75
+	X	0
+	Y	0
+	Z	0
+	Facing	21
+	Revision	0
+	Realm	britannia
+	Layer	21
+	Container	0x16
+	DecayAt	553386
+}
+
+Character
+{
+	Account	smasherteste
+	CharIdx	0
+	Name	xxx
+	Serial	0x18
+	ObjType	0x190
+	Graphic	0x190
+	Color	0x3ea
+	X	3384
+	Y	1999
+	Z	1
+	Facing	1
+	Revision	0
+	Realm	britannia
+	CProp	ConnectTime i1588092620
+	CProp	buyhab d20:i1i0i2i0i3i0i4i0i5i0i6i0i7i0i8i0i9i0i10i0i11i0i12i0i13i0i14i0i15i0i16i0i17i0i18i0i19i0i20i0
+	CProp	createdate i1588060486
+	CmdLevel	test
+	TrueColor	0x3ea
+	TrueObjtype	0x190
+	Gender	0
+	Race	0
+	Strength	60
+	Intelligence	15
+	Dexterity	15
+	OSI	30
+	Hits	135
+	Mana	15
+	Stamina	1
+	DP	40
+	Hunger	300
+	Skillcap	20
+	FollowersMax	1
+	CreatedAt	555724
+}
+
+Item
+{
+	Serial	0x40011f5b
+	ObjType	0x203b
+	Graphic	0x203b
+	Color	0x44e
+	X	0
+	Y	0
+	Z	0
+	Facing	11
+	Revision	0
+	Realm	britannia
+	Layer	11
+	Container	0x18
+	DecayAt	556324
+}
+
+Item
+{
+	Serial	0x40011f5c
+	ObjType	0xe75
+	Graphic	0xe75
+	X	0
+	Y	0
+	Z	0
+	Facing	21
+	Revision	0
+	Realm	britannia
+	Layer	21
+	Container	0x18
+	DecayAt	556324
+}
+

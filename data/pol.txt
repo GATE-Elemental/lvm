@@ -1,0 +1,36 @@
+#
+#  Created by Version: POL100 Never Gonna Give You Up
+#  Mobiles: 11
+#  Top-level Items: 1004
+#
+
+System
+{
+	CoreVersion	100
+	CoreVersionString	POL100 Never Gonna Give You Up
+	CompileDateTime	Apr 27 2020 21:00:15
+	LastItemSerialNumber	1074046045
+	LastCharSerialNumber	25
+}
+
+GlobalProperties
+{
+	CProp	BonusRP s1
+	CProp	chance_clima s76:83
+	CProp	current_year i231
+	CProp	daynightpid i16777636
+	CProp	daynumber i10
+	CProp	dia sdia
+	CProp	gameclock s661382
+	CProp	gseason sSEASON_FALL
+	CProp	halfdaytime i660943
+	CProp	lightlevel i0
+	CProp	maxonline i2
+	CProp	moon_period i10
+	CProp	moonfase snova
+	CProp	nextlockid i3
+	CProp	reagentspawnerwipe i1
+	CProp	season i1
+	CProp	weatherpid i16777637
+}
+

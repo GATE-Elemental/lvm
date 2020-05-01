@@ -1,0 +1,590 @@
+#
+#  NPCS.TXT: Nonplayer-Character Data
+#
+#  If you delete this file to perform an NPC wipe,
+#  be sure to also delete NPCEQUIP.TXT
+#
+
+NPC :brainai:floatingskull
+{
+	Name	Begarin
+	Serial	0x5
+	ObjType	0x232
+	Graphic	0x232
+	X	4838
+	Y	2554
+	Z	0
+	Facing	7
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000112e
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0x5
+	DecayAt	524613
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Staylin
+	Serial	0x6
+	ObjType	0x232
+	Graphic	0x232
+	X	4816
+	Y	2567
+	Z	0
+	Facing	7
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001132
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0x6
+	DecayAt	524614
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Vitar
+	Serial	0x7
+	ObjType	0x232
+	Graphic	0x232
+	X	4835
+	Y	2553
+	Z	0
+	Facing	4
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001138
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0x7
+	DecayAt	524614
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Kwan
+	Serial	0x8
+	ObjType	0x232
+	Graphic	0x232
+	X	4843
+	Y	2511
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000113d
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0x8
+	DecayAt	524615
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Modrei
+	Serial	0x9
+	ObjType	0x232
+	Graphic	0x232
+	X	4814
+	Y	2476
+	Z	0
+	Facing	7
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001142
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0x9
+	DecayAt	524615
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Singhe-Dul
+	Serial	0xa
+	ObjType	0x232
+	Graphic	0x232
+	X	4855
+	Y	2530
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001147
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xa
+	DecayAt	524616
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Phalil
+	Serial	0xb
+	ObjType	0x232
+	Graphic	0x232
+	X	4840
+	Y	2543
+	Z	0
+	Facing	6
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000114c
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xb
+	DecayAt	524616
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Israfel
+	Serial	0xc
+	ObjType	0x232
+	Graphic	0x232
+	X	4834
+	Y	2544
+	Z	0
+	Facing	7
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000114f
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xc
+	DecayAt	524617
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Volan
+	Serial	0xd
+	ObjType	0x232
+	Graphic	0x232
+	X	4847
+	Y	2547
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001156
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xd
+	DecayAt	524617
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Doraghir
+	Serial	0xe
+	ObjType	0x232
+	Graphic	0x232
+	X	4860
+	Y	2556
+	Z	0
+	Facing	5
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000115b
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xe
+	DecayAt	524618
+}
+
+NPC :brainai:floatingskull
+{
+	Name	Tyrnar
+	Serial	0xf
+	ObjType	0x232
+	Graphic	0x232
+	X	4871
+	Y	2506
+	Z	0
+	Facing	3
+	Revision	1
+	Realm	britannia
+	CProp	started i1
+	TrueColor	0x0
+	TrueObjtype	0x232
+	Gender	0
+	Race	0
+	Strength	40
+	Intelligence	16
+	Dexterity	60
+	Wrestling	20
+	Tactics	20
+	Hits	60
+	Mana	60
+	Stamina	105
+	DP	40
+	SkillCap	20
+	Hunger	300
+	Skillcap	20
+	CreatedAt	0
+	AR	14
+	script	:ghaia:generic
+	RunSpeed	150
+	PhysicalResist	20
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001161
+	ObjType	0x9b2
+	Graphic	0x9b2
+	X	4854
+	Y	2534
+	Z	0
+	Facing	21
+	Revision	1
+	Realm	britannia
+	Layer	21
+	Container	0xf
+	DecayAt	524618
+}
+

@@ -1,0 +1,76 @@
+Account
+{
+	Name	admin
+	PasswordHash	f6fdffe48c908deb0f4c3bd36c032e72
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	test
+	UOExpansion	ML
+	CProp	IP a3:S9:127.0.0.1S13:192.168.0.103S11:25.69.71.16
+	CProp	LastLogin i1588118066
+	CProp	email s
+	CProp	notes s
+	CProp	releaseday s
+	CProp	rplog a2:S19:admin subiu nota: 1S20:admin desceu nota: 0
+}
+
+Account
+{
+	Name	gm1
+	PasswordHash	0c90b8ae8cdfc03d4491abcddb717250
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	test
+	UOExpansion	SA
+	CProp	IP a1:S9:127.0.0.1
+	CProp	LastLogin i1576602922
+}
+
+Account
+{
+	Name	player
+	PasswordHash	46afbb77ee4b53026dff7b4f65384dc4
+	Enabled	1
+	Banned	0
+	UOExpansion	SA
+	CProp	IP a1:S9:127.0.0.1
+	CProp	LastLogin i1586540939
+	CProp	nota i2
+	CProp	rplog a6:S19:admin subiu nota: 1S19:admin subiu nota: 2S20:admin desceu nota: 1S20:admin desceu nota: 0S19:admin subiu nota: 1S19:admin subiu nota: 2
+}
+
+Account
+{
+	Name	zan
+	PasswordHash	cd2b062537e63e1160f7904bb5991d6e
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	admin
+	UOExpansion	ML
+	CProp	IP a1:S14:25.143.213.177
+	CProp	LastLogin i1588057547
+}
+
+Account
+{
+	Name	nelio
+	PasswordHash	6daa76a4e5433e2805fcff88b7b1531f
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	admin
+	UOExpansion	ML
+	CProp	LastLogin i1588033182
+}
+
+Account
+{
+	Name	smasherteste
+	PasswordHash	80d5218ef8eafe9476a718f2d8622430
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	test
+	UOExpansion	ML
+	CProp	IP a1:S12:25.65.33.138
+	CProp	LastLogin i1588092620
+}
+

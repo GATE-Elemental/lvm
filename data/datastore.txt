@@ -1,0 +1,174 @@
+#
+#  DATASTORE.TXT: DataStore Data
+#
+
+DataFile
+{
+	Descriptor	:attributes:attributes
+	Name	attributes
+	Package	attributes
+	Flags	0
+	Version	11
+	OldVersion	10
+}
+
+DataFile
+{
+	Descriptor	:brainai:createnpc
+	Name	createnpc
+	Package	brainai
+	Flags	0
+	Version	5
+	OldVersion	5
+}
+
+DataFile
+{
+	Descriptor	:charprofile:CPFile
+	Name	CPFile
+	Package	charprofile
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:commands:gm:comandos
+	Name	gm:comandos
+	Package	commands
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:commands:GoFile
+	Name	GoFile
+	Package	commands
+	Flags	0
+	Version	8
+	OldVersion	8
+}
+
+DataFile
+{
+	Descriptor	:commands:GoGumps
+	Name	GoGumps
+	Package	commands
+	Flags	0
+	Version	7
+	OldVersion	7
+}
+
+DataFile
+{
+	Descriptor	:control:gumps
+	Name	gumps
+	Package	control
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:control:packages
+	Name	packages
+	Package	control
+	Flags	0
+	Version	11
+	OldVersion	10
+}
+
+DataFile
+{
+	Descriptor	:farming:growthunits
+	Name	growthunits
+	Package	farming
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:gathering:MiscResources
+	Name	MiscResources
+	Package	gathering
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:gathering:OreSettings
+	Name	OreSettings
+	Package	gathering
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:gathering:TreeSettings
+	Name	TreeSettings
+	Package	gathering
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:help:gmpages
+	Name	gmpages
+	Package	help
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:moongates:gateinfo
+	Name	gateinfo
+	Package	moongates
+	Flags	0
+	Version	11
+	OldVersion	10
+}
+
+DataFile
+{
+	Descriptor	:motd:settings
+	Name	settings
+	Package	motd
+	Flags	0
+	Version	4
+	OldVersion	4
+}
+
+DataFile
+{
+	Descriptor	:tn:lootrecipes
+	Name	lootrecipes
+	Package	tn
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+
+DataFile
+{
+	Descriptor	:tn:objetivos
+	Name	objetivos
+	Package	tn
+	Flags	0
+	Version	1
+	OldVersion	1
+}
+

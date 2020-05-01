@@ -1,0 +1,8 @@
+Element GoList
+{
+	admin d0:
+	base_Distro d4:S4:anukt5:S4:NameS4:anukS5:RealmS9:britanniaS1:Xi3044S1:Yi2813S1:Zi29S6:bariyat5:S4:NameS6:bariyaS5:RealmS9:britanniaS1:Xi2949S1:Yi1256S1:Zi57S5:cairnt5:S4:NameS5:cairnS5:RealmS9:britanniaS1:Xi3387S1:Yi1983S1:Zi-1S10:stuttfjarat5:S4:NameS10:stuttfjaraS5:RealmS9:britanniaS1:Xi2397S1:Yi986S1:Zi-1
+	smasherteste d0:
+	zan d0:
+}
+

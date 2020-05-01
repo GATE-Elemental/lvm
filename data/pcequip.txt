@@ -1,0 +1,690 @@
+#
+#  PCEQUIP.TXT: Player-Character Equipment Data
+#
+#  This file can be deleted to wipe all items held/equipped by characters
+#  Note that hair, beards, empty backpacks, and death shrouds are in PCS.TXT.
+#
+
+Item
+{
+	Serial	0x40000ac0
+	ObjType	0xf60
+	Graphic	0xf60
+	X	0
+	Y	0
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Layer	1
+	Container	0x2
+	DecayAt	525289
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000017f
+	ObjType	0x170f
+	Graphic	0x170f
+	Color	0x21f
+	X	0
+	Y	0
+	Z	0
+	Facing	3
+	Revision	0
+	Realm	britannia
+	Layer	3
+	Container	0x2
+	DecayAt	523315
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40000181
+	ObjType	0x152e
+	Graphic	0x152e
+	Color	0x35e
+	X	0
+	Y	0
+	Z	0
+	Facing	4
+	Revision	0
+	Realm	britannia
+	Layer	4
+	Container	0x2
+	DecayAt	523315
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40000182
+	ObjType	0x1517
+	Graphic	0x1517
+	Color	0x83
+	X	0
+	Y	0
+	Z	0
+	Facing	5
+	Revision	0
+	Realm	britannia
+	Layer	5
+	Container	0x2
+	DecayAt	523315
+	Newbie	1
+	Hp	19
+}
+
+Item
+{
+	Serial	0x40000ac5
+	ObjType	0x13fa
+	Graphic	0x13fa
+	X	120
+	Y	108
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x4000017e
+	DecayAt	524342
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000aca
+	ObjType	0x1401
+	Graphic	0x1401
+	X	63
+	Y	96
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x4000017e
+	DecayAt	524342
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000add
+	ObjType	0x13b2
+	Graphic	0x13b2
+	X	126
+	Y	105
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x4000017e
+	DecayAt	524344
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000ae3
+	ObjType	0x1402
+	Graphic	0x1402
+	X	101
+	Y	138
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x4000017e
+	DecayAt	524345
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000aeb
+	ObjType	0xba63
+	Graphic	0xeed
+	Color	0x844
+	X	93
+	Y	89
+	Z	0
+	Revision	1
+	Realm	britannia
+	Amount	100
+	Container	0x4000017e
+	DecayAt	524345
+}
+
+Item
+{
+	Serial	0x40000180
+	ObjType	0xf51
+	Graphic	0xf51
+	X	150
+	Y	66
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	Container	0x4000017e
+	DecayAt	525286
+	Newbie	1
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40001f2a
+	ObjType	0x1438
+	Graphic	0x1438
+	X	142
+	Y	79
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	CProp	createdby sadmin wegwqe
+	Container	0x4000017e
+	DecayAt	525565
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000302
+	ObjType	0x170f
+	Graphic	0x170f
+	Color	0x21f
+	X	0
+	Y	0
+	Z	0
+	Facing	3
+	Revision	0
+	Realm	britannia
+	Layer	3
+	Container	0x3
+	DecayAt	523619
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40000304
+	ObjType	0x152e
+	Graphic	0x152e
+	Color	0x35e
+	X	0
+	Y	0
+	Z	0
+	Facing	4
+	Revision	0
+	Realm	britannia
+	Layer	4
+	Container	0x3
+	DecayAt	523619
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40000305
+	ObjType	0x1517
+	Graphic	0x1517
+	Color	0x83
+	X	0
+	Y	0
+	Z	0
+	Facing	5
+	Revision	0
+	Realm	britannia
+	Layer	5
+	Container	0x3
+	DecayAt	523619
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40000307
+	ObjType	0xf49
+	Graphic	0xf49
+	X	57
+	Y	89
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523764
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000308
+	ObjType	0xf49
+	Graphic	0xf49
+	X	83
+	Y	69
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523764
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000309
+	ObjType	0xf4f
+	Graphic	0xf4f
+	X	127
+	Y	101
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523765
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030a
+	ObjType	0xf4f
+	Graphic	0xf4f
+	X	97
+	Y	88
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523765
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030b
+	ObjType	0x1440
+	Graphic	0x1440
+	X	89
+	Y	85
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523765
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030c
+	ObjType	0xf4c
+	Graphic	0xf4c
+	X	67
+	Y	113
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523766
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030d
+	ObjType	0x13fa
+	Graphic	0x13fa
+	X	52
+	Y	66
+	Z	0
+	Facing	2
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523767
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030f
+	ObjType	0xba63
+	Graphic	0xeed
+	Color	0x844
+	X	129
+	Y	65
+	Z	0
+	Revision	2
+	Realm	britannia
+	Amount	200
+	Container	0x40000301
+	DecayAt	523410
+}
+
+Item
+{
+	Serial	0x40000315
+	ObjType	0x1401
+	Graphic	0x1401
+	X	84
+	Y	109
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	CProp	createdby sadmin Silver
+	Container	0x40000301
+	DecayAt	523412
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x4000030e
+	ObjType	0xe85
+	Graphic	0xe85
+	X	120
+	Y	121
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523417
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40000303
+	ObjType	0xf51
+	Graphic	0xf51
+	X	60
+	Y	138
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	Container	0x40000301
+	DecayAt	523424
+	Newbie	1
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x400055df
+	ObjType	0xf60
+	Graphic	0xf60
+	X	0
+	Y	0
+	Z	0
+	Facing	1
+	Revision	1
+	Realm	britannia
+	CProp	createdby sadmin Sogueto
+	Layer	1
+	Container	0x11
+	DecayAt	531943
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40005729
+	ObjType	0x1711
+	Graphic	0x1711
+	X	0
+	Y	0
+	Z	0
+	Facing	3
+	Revision	1
+	Realm	britannia
+	Layer	3
+	Container	0x11
+	DecayAt	532009
+}
+
+Item
+{
+	Serial	0x40002869
+	ObjType	0x152e
+	Graphic	0x152e
+	Color	0x1ac
+	X	0
+	Y	0
+	Z	0
+	Facing	4
+	Revision	0
+	Realm	britannia
+	Layer	4
+	Container	0x11
+	DecayAt	527175
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x4000286a
+	ObjType	0x1517
+	Graphic	0x1517
+	Color	0x1cb
+	X	0
+	Y	0
+	Z	0
+	Facing	5
+	Revision	0
+	Realm	britannia
+	Layer	5
+	Container	0x11
+	DecayAt	527175
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40005727
+	ObjType	0x1543
+	Graphic	0x1543
+	Color	0x24f
+	X	0
+	Y	0
+	Z	0
+	Facing	6
+	Revision	1
+	Realm	britannia
+	Layer	6
+	Container	0x11
+	DecayAt	531999
+	Hp	19
+}
+
+Item
+{
+	Serial	0x4000286b
+	ObjType	0xba63
+	Graphic	0xeed
+	Color	0x844
+	X	140
+	Y	97
+	Z	0
+	Revision	1
+	Realm	britannia
+	Amount	100
+	Container	0x40002866
+	DecayAt	527430
+}
+
+Item
+{
+	Serial	0x40002868
+	ObjType	0xf51
+	Graphic	0xf51
+	X	49
+	Y	96
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	Container	0x40002866
+	DecayAt	531941
+	Newbie	1
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40010add
+	ObjType	0xf51
+	Graphic	0xf51
+	X	0
+	Y	0
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	Layer	1
+	Container	0x16
+	DecayAt	553386
+	Newbie	1
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40010adc
+	ObjType	0x170f
+	Graphic	0x170f
+	Color	0x21f
+	X	0
+	Y	0
+	Z	0
+	Facing	3
+	Revision	0
+	Realm	britannia
+	Layer	3
+	Container	0x16
+	DecayAt	553386
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40010adf
+	ObjType	0x1517
+	Graphic	0x1517
+	Color	0x83
+	X	0
+	Y	0
+	Z	0
+	Facing	5
+	Revision	0
+	Realm	britannia
+	Layer	5
+	Container	0x16
+	DecayAt	553526
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40010ade
+	ObjType	0x1516
+	Graphic	0x1516
+	Color	0x35e
+	X	0
+	Y	0
+	Z	0
+	Facing	23
+	Revision	0
+	Realm	britannia
+	Layer	23
+	Container	0x16
+	DecayAt	553386
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40011f5e
+	ObjType	0xf51
+	Graphic	0xf51
+	X	0
+	Y	0
+	Z	0
+	Facing	1
+	Revision	0
+	Realm	britannia
+	Layer	1
+	Container	0x18
+	DecayAt	556324
+	Newbie	1
+	PhysicalDamage	100
+}
+
+Item
+{
+	Serial	0x40011f5d
+	ObjType	0x170f
+	Graphic	0x170f
+	Color	0x21f
+	X	0
+	Y	0
+	Z	0
+	Facing	3
+	Revision	0
+	Realm	britannia
+	Layer	3
+	Container	0x18
+	DecayAt	556324
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40011f5f
+	ObjType	0x152e
+	Graphic	0x152e
+	Color	0x35e
+	X	0
+	Y	0
+	Z	0
+	Facing	4
+	Revision	0
+	Realm	britannia
+	Layer	4
+	Container	0x18
+	DecayAt	556324
+	Newbie	1
+}
+
+Item
+{
+	Serial	0x40011f60
+	ObjType	0x1517
+	Graphic	0x1517
+	Color	0x83
+	X	0
+	Y	0
+	Z	0
+	Facing	5
+	Revision	0
+	Realm	britannia
+	Layer	5
+	Container	0x18
+	DecayAt	556324
+	Newbie	1
+}
+

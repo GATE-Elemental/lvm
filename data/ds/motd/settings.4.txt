@@ -1,0 +1,17 @@
+Element admin
+{
+	FirstLine sffff
+	noshow i1
+}
+
+Element smasherteste
+{
+	FirstLine sffff 
+	noshow i1
+}
+
+Element zan
+{
+	FirstLine sffff 
+}
+
